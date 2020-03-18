@@ -1,4 +1,5 @@
 # SCP-277-FR_addScp
+[![Discord Bots](https://top.gg/api/widget/568437925453234176.svg)](https://top.gg/bot/568437925453234176)
 Repository pour ajouter vous même vos SCP préférés sur le bot SCP-277-FR
 
 Ici vous pouvez faire une "Pull request" avec dedans un fichier **.js** qui contient la commande.
