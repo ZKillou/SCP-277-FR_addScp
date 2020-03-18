@@ -23,7 +23,8 @@ _____________
 
 Attention,
 
-> Dans le 2ème argument du ".addField()" (``.addField("1er argument", "2eme argument")``), il doit y avoir maximum 1024 caractères. ([Voici un compteur de caractère en ligne](https://compteurdelettres.com/)
+> Dans le 2ème argument du ".addField()" (``.addField("1er argument", "2eme argument")``), il doit y avoir maximum 1024 caractères. ([Voici un compteur de caractère en ligne](https://compteurdelettres.com/))
+> 
 > De plus, un embed ne doit pas dépasser 6000 caractères (mais ça je m'en occupe tout seul)
 > 
 > Pour revenir à la ligne, il faut, à la place d'entrer, mettre un "\n" (Exemple: ``.addField("Bla ?", "Blablabla\nBlablabla\nBlabla\n\nBlabla"``). 1 "\n" = revenir une fois à la ligne, 2 "\n" = revenir 2 fois à la ligne
