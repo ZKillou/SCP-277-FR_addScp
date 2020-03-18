@@ -1,5 +1,5 @@
 # SCP-277-FR_addScp
-Repository pour ajouter vous même vos SCP préférés
+Repository pour ajouter vous même vos SCP préférés sur le bot SCP-277-FR
 
 Ici vous pouvez faire une "Pull request" avec dedans un fichier **.js** qui contient la commande.
 ______________
