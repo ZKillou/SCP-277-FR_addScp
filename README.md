@@ -26,7 +26,9 @@ Attention,
 > Dans le 2ème argument du ".addField()" (``.addField("1er argument", "2eme argument")``), il doit y avoir maximum 1024 caractères
 > Pour revenir à la ligne, il faut, à la place d'entrer, mettre un "\n" (Exemple: ``.addField("Bla ?", "Blablabla\nBlablabla\nBlabla\n\nBlabla"``). 1 "\n" = revenir une fois à la ligne, 2 "\n" = revenir 2 fois à la ligne
 > 
-> Si sur le rapport de la Fondation il y a un mot en italique ou en gras (sauf dans le premier argument du ".addField()", il doit paraître en italique ou en gras dans la commande
+> Si sur le rapport de la Fondation il y a un mot en italique ou en gras (sauf dans le premier argument du ".addField()", il doit paraître en italique ou en gras dans la commande (Tu ne sais pas comment faire ? [Clique là]()
+> 
+> Si 
 
 
                                        __________________________________________________         1  1 1 1 1 1 1  1 2  1  1 3 ev r r f f f f  f f f f f f f f f f f  f f f f f f f  f f f f f  f g
