@@ -26,9 +26,8 @@ Attention,
 > Dans le 2ème argument du ".addField()" (``.addField("1er argument", "2eme argument")``), il doit y avoir maximum 1024 caractères
 > Pour revenir à la ligne, il faut, à la place d'entrer, mettre un "\n" (Exemple: ``.addField("Bla ?", "Blablabla\nBlablabla\nBlabla\n\nBlabla"``). 1 "\n" = revenir une fois à la ligne, 2 "\n" = revenir 2 fois à la ligne
 > 
-> Si sur le rapport de la Fondation il y a un mot en italique ou en gras (sauf dans le premier argument du ".addField()", il doit paraître en italique ou en gras dans la commande (Tu ne sais pas comment faire ? [Clique là]()
+> Si sur le rapport de la Fondation il y a un mot en italique ou en gras (sauf dans le premier argument du ".addField()", il doit paraître en italique ou en gras dans la commande (Tu ne sais pas comment faire ? [Clique là](https://support.discordapp.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-soulign%C3%A9-)
 > 
-> Si 
-
+> S'il y a une sorte de carré sur le rapport (comme ça ![carré fondation](https://cdn.discordapp.com/attachments/505784854017736705/689833516779044931/Screenshot_20200318-145117_Chrome.jpg) tu dois faire un bloc de code de plusieurs lignes sans mettre de caractère en gras ou en italique
 
                                        __________________________________________________         1  1 1 1 1 1 1  1 2  1  1 3 ev r r f f f f  f f f f f f f f f f f  f f f f f f f  f f f f f  f g
