@@ -4,7 +4,7 @@ Repository pour ajouter vous même vos SCP préférés
 Ici vous pouvez faire une "Pull request" avec dedans un fichier **.js** qui contient la commande.
 ______________
 
-Voici un exemple:
+Voici un exemple (il y en a un plus complet [ici](https://github.com/ZKillou/SCP-277-FR_addScp/blob/master/exemple.js)):
 
 ```js
 if(message.content === prefix + "lenumeroduscp"){
