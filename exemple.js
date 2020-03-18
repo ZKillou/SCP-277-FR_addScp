@@ -1,6 +1,6 @@
 if(message.content === prefix + "409"){
 	let embed = new Discord.RichEmbed()
-	.setColor('0x000000') //La couleur noir
+	.setColor("0x000000") //La couleur noir
 	.setThumbnail("https://cdn.discordapp.com/avatars/568437925453234176/7817bef4754c41be03e31f16d47802ff.png?size=2048") //Met le logo SCP en haut à gauche de l'embed
 	.setFooter(ftr, authpdp) //Met "Demandé par ..." en bas de l'embed
 	.addField("Information", "**Titre:** Cristal Contagieux\n**Objet #:** SCP-409\n**Classe:** Keter")
